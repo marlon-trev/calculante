@@ -12,7 +12,7 @@ body{
     min-height: 568px;
     font-weight: normal;
     font-size: 18px;
-    font-family:'Courier New', Courier, monospace;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: white;
     background-color: #0E0E0E;
 }
@@ -91,7 +91,7 @@ h1{
     line-height: 18px;
     font-weight: bold;
     font-size: 30px;
-    font-family:'Courier New', Courier, monospace;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: black;
     text-align: right;
     padding: 20px;
