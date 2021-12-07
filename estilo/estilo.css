@@ -3,10 +3,13 @@
 *{
     margin: 0;
     padding: 0;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:Arial, Helvetica, sans-serif
 }
 
 body{
+    min-width: 220px;
+    max-width: 1200px;
+    min-height: 568px;
     font-weight: normal;
     font-size: 18px;
     font-family:'Courier New', Courier, monospace;
@@ -20,6 +23,8 @@ h1{
 }
 
 #calc{
+    min-width: 200px;
+    max-width: 350px;
     position: absolute;
     background-color: black;
     top: 50%;
@@ -28,8 +33,9 @@ h1{
     border-radius: 2px;
     padding: 8px;
     width: 350px;
-    height: 575px;
+    height: 565px;
 }
+
 
 .botao{
     width: 80px;
