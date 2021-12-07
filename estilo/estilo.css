@@ -42,11 +42,12 @@ h1{
     height: 70px;
     font-size: 16px;
     cursor: pointer;
-    background-color: #171717;
+    background-color: #171717ec;
     border: none;
     color: white;
     margin: 2.5px;
     transition-duration: 0.2s;
+    border-radius: 5px;
 }
 
 .botao1{
@@ -58,6 +59,7 @@ h1{
     border: none;
     color: white;
     margin: 2px;
+    border-radius: 5px;
     transition-duration: 0.2s;
 }
 
@@ -70,6 +72,7 @@ h1{
     border: none;
     color: white;
     margin: 2px;
+    border-radius: 10px;
     transition-duration: 0.2s;
 }
 
