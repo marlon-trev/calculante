@@ -23,6 +23,13 @@ function apagar(){
     res.innerHTML = rest.substring(0, rest.length -1)
 }
 
+let horas = document.getElementById('hora')
+let data = new Date
+let hora = data.getHours()
+let min = data.getMinutes()
+horas.innerHTML = `${hora}:${min}`
+
+
 /*
 function toLimit(){
     resultado()
